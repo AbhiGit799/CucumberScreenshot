@@ -1,0 +1,6 @@
+Note => In this project only plain cucumber report will generate.
+We are using TestNG Here.
+Which will contains
+-Screenshot
+-URL
+-ExecutionDateTime
